@@ -4,9 +4,7 @@
 
 Languages:
 
-  C++
-  Python
-  R
+  C++ / Python / R
   
   Basic CSS/JS/HTML/React JSX
 
